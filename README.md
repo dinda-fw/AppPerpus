@@ -5,7 +5,7 @@
 ![Apache NetBeans Logo](https://img.shields.io/badge/NetBeans-182B49?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 ![GitHub Logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-Aplikasi Perpustakaan ini merupakan **sebuah sistem informasi berbasis desktop** yang dikembangkan untuk membantu pengelolaan administrasi dan layanan di perpustakaan secara digital dan efisien. Aplikasi ini dirancang menggunakan bahasa pemrograman **Java** dengan antarmuka grafis (GUI) berbasis **Java Swing**, serta didukung oleh **database MySQL** untuk menyimpan dan mengelola data secara terstruktur.
+**Aplikasi Perpustakaan Aksara Maya** ini merupakan sebuah sistem informasi berbasis desktop yang dikembangkan untuk membantu pengelolaan administrasi dan layanan di perpustakaan secara digital dan efisien. Aplikasi ini dirancang menggunakan bahasa pemrograman **Java** dengan antarmuka grafis (GUI) berbasis **Java Swing**, serta didukung oleh **database MySQL** untuk menyimpan dan mengelola data secara terstruktur.
 
 Aplikasi ini memiliki **dua jenis pengguna**, yaitu **Admin** dan **User (Anggota)**. Setiap pengguna memiliki akses dan hak sesuai peran masing-masing. Admin bertugas mengelola data buku, anggota, serta melakukan proses peminjaman dan pengembalian buku fisik. Sementara itu, User dapat melihat riwayat pinjam dan membaca buku digital secara online.
 
@@ -80,6 +80,7 @@ Kontribusi dalam bentuk apapun sangat dihargai! Jika Anda memiliki saran perbaik
 
 ## Lisensi
 
+Ini Project Mata Kuliah Pemrograman Berbasis Objek semester 2 
 Proyek ini dilisensikan di bawah [Universitas Negeri Surabaya, MIT License, Apache 2.0 License, GPLv3].
 
 ---
