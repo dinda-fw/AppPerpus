@@ -80,7 +80,8 @@ Kontribusi dalam bentuk apapun sangat dihargai! Jika Anda memiliki saran perbaik
 
 ## Lisensi
 
-Ini Project Mata Kuliah Pemrograman Berbasis Objek semester 2 
+Ini Project Mata Kuliah Pemrograman Berbasis Objek semester 2.
+
 Proyek ini dilisensikan di bawah [Universitas Negeri Surabaya, MIT License, Apache 2.0 License, GPLv3].
 
 ---
